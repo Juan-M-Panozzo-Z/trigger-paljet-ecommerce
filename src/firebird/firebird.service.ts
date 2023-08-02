@@ -54,7 +54,7 @@ export class FirebirdService implements OnModuleInit {
             });
           }
         });
-      }, 100);
+      }, 2500);
     });
   }
 }
