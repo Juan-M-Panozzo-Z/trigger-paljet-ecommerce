@@ -4,7 +4,7 @@ import * as firebird from 'node-firebird';
 @Injectable()
 export class FirebirdService implements OnModuleInit {
   private options = {
-    host: 'rigelec.com.ar',
+    host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -27,28 +27,3 @@ export class FirebirdService implements OnModuleInit {
     });
   }
 }
-
-// if (err) throw err;
-
-//       const query = `
-//     SELECT
-//       RDB$TRIGGER_NAME
-//     FROM
-//       RDB$TRIGGERS
-//     WHERE
-//       RDB$SYSTEM_FLAG = 0
-//       AND RDB$TRIGGER_INACTIVE = 0
-//   `;
-
-//       db.query(query, [], function (err, result) {
-//         if (err) throw err;
-//         console.log('Triggers activos:');
-//         result.forEach((row) => {
-//           console.log(row.RDB$TRIGGER_NAME);
-//         });
-//         db.detach(function () {
-//           console.log('Desconectado de la base de datos.');
-//         });
-//       });
-//     });
-// }
