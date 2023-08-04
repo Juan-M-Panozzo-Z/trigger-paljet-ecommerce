@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 import * as firebird from 'node-firebird';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
@@ -15,7 +15,8 @@ export class PaljetSyncController {
   ) {}
 
   options: firebird.Options = {
-    host: 'rigelec.com.ar',
+    // host: 'rigelec.com.ar',
+    host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -195,13 +196,29 @@ export class PaljetSyncController {
 
       try {
         const firebirdResult = await firebirdCount();
-        const mongoResult = await mongoCount();
+        const mongoResult = (await mongoCount()) + 1;
         resolve(
           `Sincronizacion funcionando correctamente. Firebird: ${firebirdResult} - Mongo: ${mongoResult}`,
         );
       } catch (error) {
         reject(error);
       }
+    });
+  }
+
+  @Get('stock/:id')
+  async stockNow(@Param('id') id: string) {
+    const query = `SELECT STK_ID, ART_ID, DISPONIBLE FROM STOCK WHERE ART_ID = ${id}`;
+    return new Promise<string>((resolve, reject) => {
+      firebird.attach(this.options, (err, db) => {
+        err && reject(err);
+
+        db.query(query, [], async (err, result) => {
+          err && reject(err);
+
+          resolve(JSON.stringify(result));
+        });
+      });
     });
   }
 }
