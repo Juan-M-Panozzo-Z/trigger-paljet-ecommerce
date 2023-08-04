@@ -17,14 +17,18 @@ export class FirebirdService implements OnModuleInit {
   }
 
   listenToChanges() {
-    firebird.attach(this.options, function (err, db) {
+    firebird.attach(this.options, (err, db) => {
+      if (err) {
+        console.error('Error connecting to Firebird database:', err);
+        return;
+      }
       const query = 'SELECT * FROM DB_NOTIF WHERE TABLA_ID IN (1, 214, 88)';
       setInterval(() => {
         try {
-          db.query(query, [], function (err, result) {
+          db.query(query, [], (err, result) => {
             if (err) throw err;
             if (result.length > 0) {
-              fs.readFile('log.json', function (err, data) {
+              fs.readFile('log.json', (err, data) => {
                 if (err) throw err;
 
                 let logObject = {};
@@ -46,7 +50,7 @@ export class FirebirdService implements OnModuleInit {
                 fs.writeFile(
                   'log.json',
                   JSON.stringify(logObject),
-                  function (err) {
+                  (err) => {
                     if (err) throw err;
                     console.log(
                       `Eventos guardados en log.json a las ${new Date()}`,
@@ -60,6 +64,7 @@ export class FirebirdService implements OnModuleInit {
           console.log(err);
         }
       }, 100);
+      db.detach();
     });
   }
 }
