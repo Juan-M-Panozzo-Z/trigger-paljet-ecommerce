@@ -40,7 +40,7 @@ export class PaljetSyncController {
           for (const item of result) {
               console.log(`Cantidad de artículos sincronizados: ${newArticleCount} de ${result.length}`);
             const existingArticle = await this.articleModel.findOne({
-              ART_ID: item.ART_ID,
+              _id: item.ART_ID,
             });
 
             if (!existingArticle) {
