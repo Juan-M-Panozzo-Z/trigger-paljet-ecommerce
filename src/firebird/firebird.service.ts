@@ -5,7 +5,8 @@ import * as fs from 'fs';
 @Injectable()
 export class FirebirdService implements OnModuleInit {
   private options = {
-    host: '10.16.10.16',
+    // host: '10.16.10.16',
+    host: 'rigelec.com.ar',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -44,12 +45,15 @@ export class FirebirdService implements OnModuleInit {
                     !logArray.find((x) => x.DB_NOTIF_ID === item.DB_NOTIF_ID)
                   ) {
                     logArray.push(item);
+                    const tablaId = logArray[0].TABLA_ID;
+                    const article = logArray[0].CAMPO_ID.split(',')[0];
+                    const type = logArray[0].TIPO_NOVEDAD;
+                    console.log(tablaId, article, type);
                   }
                 });
 
                 fs.writeFile('log.json', JSON.stringify(logArray), (err) => {
                   if (err) throw err;
-                  console.log(logArray);
                 });
               });
             }
