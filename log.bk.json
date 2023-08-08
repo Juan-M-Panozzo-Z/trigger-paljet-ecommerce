@@ -1,0 +1,6002 @@
+[
+  {
+    "DB_NOTIF_ID": 14616240,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=5293,DEP_ID=1",
+    "TRANSACTION_ID": 101424766,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616241,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=130",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616242,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=48018",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616243,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140602",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616244,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140718",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616245,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140834",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616246,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140950",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616247,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=186",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616248,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148603",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616249,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148604",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616250,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148605",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616251,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148606",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616252,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148607",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616253,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148608",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616254,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20487",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616255,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=132",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616256,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=48020",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616257,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140604",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616258,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140720",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616259,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140836",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616260,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140952",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616261,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=188",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616262,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148417",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616263,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148418",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616264,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148419",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616265,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148420",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616266,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148421",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616267,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148422",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616268,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20448",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616269,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147437",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616270,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147438",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616271,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147439",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616272,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147440",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616273,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147441",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616274,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147442",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616275,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20271",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616276,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=133",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616277,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=48021",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616278,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140605",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616279,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140721",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616280,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140837",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616281,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140953",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616282,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=189",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616283,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=8267",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616284,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=57378",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616285,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140662",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616286,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140778",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616287,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140894",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616288,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141010",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616289,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=8272",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616290,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144898",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616291,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144899",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616292,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144900",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616293,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144901",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616294,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144902",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616295,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19785",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616296,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143472",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616297,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143473",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616298,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143474",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616299,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143475",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616300,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143476",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616301,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143477",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616302,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19536",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616303,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63164",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616304,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63165",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616305,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140690",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616306,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140806",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616307,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140922",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616308,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141038",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616309,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13544",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616310,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63166",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616311,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63167",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616312,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140691",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616313,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140807",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616314,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140923",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616315,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141039",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616316,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13545",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616317,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143490",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616318,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143491",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616319,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143492",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616320,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143493",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616321,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143494",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616322,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143495",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616323,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19539",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616324,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143514",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616325,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143515",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616326,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143516",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616327,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143517",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616328,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143518",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616329,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143519",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616330,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19543",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616331,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63170",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616332,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63171",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616333,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140693",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616334,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140809",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616335,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140925",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616336,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141041",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616337,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13547",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616338,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143496",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616339,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143497",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616340,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143498",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616341,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143499",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616342,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143500",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616343,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143501",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616344,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19540",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616345,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63168",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616346,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63169",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616347,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140692",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616348,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140808",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616349,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140924",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616350,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141040",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616351,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13546",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616352,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143520",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616353,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143521",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616354,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143522",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616355,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143523",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616356,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143524",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616357,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143525",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616358,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19544",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616359,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63172",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616360,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63173",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616361,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140694",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616362,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140810",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616363,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140926",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616364,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141042",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616365,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13548",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616366,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143478",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616367,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143479",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616368,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143480",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616369,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143481",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616370,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143482",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616371,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143483",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616372,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19537",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616373,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143484",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616374,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143485",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616375,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143486",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616376,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143487",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616377,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143488",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616378,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143489",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616379,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19538",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616380,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143509",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616381,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143510",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616382,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143511",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616383,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143512",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616384,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143513",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616385,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143508",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616386,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19542",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616387,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143502",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616388,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143503",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616389,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143504",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616390,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143505",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616391,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143506",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616392,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143507",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616393,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19541",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616394,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143526",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616395,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143527",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616396,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143528",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616397,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143529",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616398,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143530",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616399,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143531",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616400,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19545",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616401,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=8431",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616402,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=52652",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616403,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140632",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616404,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140748",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616405,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140864",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616406,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140980",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616407,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=8515",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616408,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=8432",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616409,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140633",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616410,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140749",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616411,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140865",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616412,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140981",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616413,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=8516",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616414,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=3249",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616415,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=51325",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616416,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140624",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616417,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140740",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616418,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140856",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616419,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140972",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616420,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=3284",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616421,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=3250",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616422,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=51326",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616423,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140625",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616424,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140741",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616425,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140857",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616426,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140973",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616427,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=3285",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616428,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=8510",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616429,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=57689",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616430,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140665",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616431,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140781",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616432,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140897",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616433,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141013",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616434,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=8595",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616435,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=3251",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616436,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140626",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616437,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140742",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616438,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140858",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616439,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140974",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616440,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=3286",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616441,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=3252",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616442,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140627",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616443,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140743",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616444,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140859",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616445,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140975",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616446,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=3287",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616447,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=3253",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616448,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=51330",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616449,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140628",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616450,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140744",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616451,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140860",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616452,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140976",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616453,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=3288",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616454,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145489",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616455,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145490",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616456,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145491",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616457,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145492",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616458,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145493",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616459,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145494",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616460,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19894",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616461,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140178",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616462,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140179",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616463,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140180",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616464,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140181",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616465,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140182",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616466,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140183",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616467,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19285",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616468,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145182",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616469,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145183",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616470,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145184",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616471,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145185",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616472,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145186",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616473,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145187",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616474,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19837",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616475,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145495",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616476,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145496",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616477,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145497",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616478,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145498",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616479,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145499",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616480,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145500",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616481,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19895",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616482,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145983",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616483,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145984",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616484,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145985",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616485,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145986",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616486,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145987",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616487,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145988",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616488,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19996",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616489,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144261",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616490,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144262",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616491,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144263",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616492,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144264",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616493,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144265",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616494,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144266",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616495,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19691",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616496,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144074",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616497,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144075",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616498,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144076",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616499,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144077",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616500,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144078",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616501,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144079",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616502,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19661",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616503,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63590",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616504,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63591",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616505,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140696",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616506,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140812",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616507,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140928",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616508,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141044",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616509,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13760",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616510,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145989",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616511,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145990",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616512,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145991",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616513,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145992",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616514,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145993",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616515,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145994",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616516,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19997",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616517,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143325",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616518,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143326",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616519,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143327",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616520,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143328",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616521,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143329",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616522,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143330",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616523,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19511",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616524,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144080",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616525,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144081",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616526,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144082",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616527,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144083",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616528,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144084",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616529,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144085",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616530,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19662",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616531,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143338",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616532,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143339",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616533,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143340",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616534,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143341",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616535,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143342",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616536,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143343",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616537,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19513",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616538,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146857",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616539,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146858",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616540,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146859",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616541,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146860",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616542,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146861",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616543,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146862",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616544,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20166",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616545,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=65789",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616546,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140631",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616547,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140747",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616548,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140863",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616549,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140979",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616550,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=15003",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616551,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146863",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616552,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146864",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616553,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146865",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616554,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146866",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616555,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146867",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616556,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146868",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616557,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20167",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616558,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142041",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616559,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142042",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616560,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142043",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616561,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142044",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616562,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142045",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616563,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142046",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616564,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19345",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616565,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145977",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616566,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145978",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616567,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145979",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616568,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145980",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616569,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145981",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616570,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145982",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616571,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19995",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616572,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142017",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616573,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142018",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616574,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142019",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616575,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142020",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616576,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142021",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616577,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142022",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616578,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19341",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616579,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142924",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616580,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142925",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616581,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142926",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616582,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142927",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616583,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142928",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616584,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142929",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616585,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19439",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616586,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142847",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616587,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142848",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616588,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142849",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616589,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142850",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616590,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142851",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616591,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142852",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616592,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19424",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616593,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142035",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616594,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142036",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616595,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142037",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616596,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142038",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616597,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142039",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616598,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142040",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616599,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19344",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616600,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142023",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616601,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142024",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616602,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142025",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616603,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142026",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616604,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142027",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616605,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142028",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616606,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19342",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616607,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147652",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616608,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147653",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616609,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147654",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616610,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147655",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616611,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147656",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616612,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147657",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616613,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20311",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616614,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142029",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616615,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142030",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616616,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142031",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616617,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142032",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616618,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142033",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616619,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142034",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616620,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19343",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616621,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63592",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616622,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63593",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616623,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140697",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616624,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140813",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616625,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140929",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616626,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141045",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616627,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13761",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616628,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143344",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616629,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143345",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616630,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143346",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616631,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143347",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616632,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143348",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616633,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143349",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616634,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19514",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616635,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146001",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616636,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146002",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616637,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146003",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616638,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146004",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616639,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146005",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616640,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146006",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616641,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19999",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616642,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145995",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616643,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145996",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616644,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145997",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616645,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145998",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616646,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=145999",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616647,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=146000",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616648,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19998",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616649,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=5672",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616650,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=54098",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616651,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142374",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616652,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141517",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616653,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142552",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616654,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=5694",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616655,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144443",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616656,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144444",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616657,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144445",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616658,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144446",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616659,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144447",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616660,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19715",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616661,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=118162",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616662,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140656",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616663,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140772",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616664,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140888",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616665,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141004",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616666,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=18421",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616667,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143466",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616668,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143467",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616669,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143468",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616670,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143469",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616671,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143470",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616672,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=143471",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616673,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19535",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616674,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=118158",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616675,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140655",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616676,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140771",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616677,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140887",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616678,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141003",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616679,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=18420",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616680,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144433",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616681,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144434",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616682,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144435",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616683,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144436",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616684,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144437",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616685,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19713",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616686,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142883",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616687,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142884",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616688,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142885",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616689,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142886",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616690,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142887",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616691,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19431",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616692,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=118166",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616693,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140657",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616694,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140773",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616695,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140889",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616696,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141005",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616697,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=18422",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616698,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144453",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616699,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144454",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616700,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144455",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616701,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144456",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616702,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144457",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616703,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19717",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616704,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142930",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616705,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142931",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616706,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142932",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616707,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142933",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616708,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142934",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616709,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19440",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616710,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144468",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616711,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144469",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616712,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144470",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616713,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144471",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616714,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144472",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616715,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19720",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616716,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=63454",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616717,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140700",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616718,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140816",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616719,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140932",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616720,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141048",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616721,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=13693",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616722,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144463",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616723,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144464",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616724,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144465",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616725,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144466",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616726,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144467",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616727,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19719",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616728,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144473",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616729,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144474",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616730,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144475",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616731,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144476",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616732,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144477",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616733,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19721",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616734,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142903",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616735,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142904",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616736,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142905",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616737,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142906",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616738,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142907",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616739,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19435",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616740,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=85375",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616741,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=85376",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616742,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140679",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616743,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140795",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616744,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140911",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616745,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141027",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616746,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=16864",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616747,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144516",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616748,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144517",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616749,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144518",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616750,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144519",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616751,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144520",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616752,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19729",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616753,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=65853",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616754,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140610",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616755,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140726",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616756,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140842",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616757,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140958",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616758,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=15057",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616759,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144506",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616760,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144507",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616761,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144508",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616762,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144509",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616763,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144510",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616764,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19727",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616765,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=118154",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616766,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140654",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616767,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140770",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616768,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140886",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616769,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141002",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616770,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=18419",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616771,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=85379",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616772,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140680",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616773,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140796",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616774,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140912",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616775,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141028",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616776,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=16865",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616777,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144526",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616778,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144527",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616779,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144528",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616780,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144529",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616781,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144530",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616782,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19731",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616783,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=118170",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616784,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140659",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616785,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140775",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616786,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140891",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616787,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141007",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616788,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=18423",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616789,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=4738",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616790,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=52955",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616791,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140634",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616792,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140750",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616793,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140866",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616794,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140982",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616795,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=4767",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616796,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148257",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616797,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148258",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616798,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148259",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616799,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148260",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616800,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148261",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616801,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20421",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616802,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147083",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616803,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147084",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616804,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147085",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616805,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147086",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616806,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=147087",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616807,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20208",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616808,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144883",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616809,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144884",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616810,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144885",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616811,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144886",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616812,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144887",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616813,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19782",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616814,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=85387",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616815,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140666",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616816,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140782",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616817,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140898",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616818,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=141014",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616819,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=16867",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616820,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140453",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616821,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140454",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616822,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140455",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616823,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140456",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616824,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140457",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616825,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140458",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616826,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19312",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616827,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148762",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616828,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148763",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616829,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148764",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616830,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148765",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616831,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148766",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616832,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148767",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616833,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20519",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616834,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140441",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616835,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140442",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616836,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140443",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616837,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140444",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616838,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140445",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616839,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140446",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616840,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19310",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616841,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148768",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616842,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148769",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616843,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148770",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616844,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148771",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616845,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148772",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616846,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148773",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616847,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20520",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616848,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140447",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616849,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140448",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616850,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140449",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616851,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140450",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616852,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140451",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616853,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140452",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616854,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19311",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616855,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148774",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616856,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148775",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616857,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148776",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616858,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148777",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616859,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148778",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616860,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=148779",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616861,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=20521",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616862,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=115726",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616863,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140608",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616864,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140724",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616865,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140840",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616866,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=140956",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616867,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=18106",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616868,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144438",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616869,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144439",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616870,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144440",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616871,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144441",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616872,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144442",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616873,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19714",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616874,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144428",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616875,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144429",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616876,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144430",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616877,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144431",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616878,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144432",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616879,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19712",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616880,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142873",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616881,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142874",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616882,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142875",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616883,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142876",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616884,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142877",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616885,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19429",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616886,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144448",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616887,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144449",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616888,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144450",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616889,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144451",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616890,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144452",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616891,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19716",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616892,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142858",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616893,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142859",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616894,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142860",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616895,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142861",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616896,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142862",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616897,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19426",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616898,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142868",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616899,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142869",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616900,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142870",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616901,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142871",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616902,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142872",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616903,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19428",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616904,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144458",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616905,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144459",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616906,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144460",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616907,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144461",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616908,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144462",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616909,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19718",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616910,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142878",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616911,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142879",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616912,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142880",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616913,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142881",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616914,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142882",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616915,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19430",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616916,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144511",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616917,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144512",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616918,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144513",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616919,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144514",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616920,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144515",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616921,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19728",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616922,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144501",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616923,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144502",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616924,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144503",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616925,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144504",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616926,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144505",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616927,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19726",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616928,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144521",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616929,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144522",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616930,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144523",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616931,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144524",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616932,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=144525",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616933,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19730",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616934,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142623",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616935,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142624",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616936,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142625",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616937,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142626",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616938,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142627",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616939,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142628",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616940,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19388",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616941,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142647",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616942,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142648",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616943,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142649",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616944,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142650",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616945,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142651",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616946,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142652",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616947,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19392",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616948,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142629",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616949,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142630",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616950,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142631",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616951,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142632",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616952,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142633",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616953,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142634",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616954,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19389",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616955,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142641",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616956,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142642",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616957,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142643",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616958,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142644",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616959,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142645",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616960,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142646",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616961,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19391",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616962,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142635",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616963,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142636",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616964,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142637",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616965,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142638",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616966,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142639",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616967,
+    "EMP_ID": 1,
+    "TABLA_ID": 88,
+    "CAMPO_ID": "ARTLPR_ID=142640",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616968,
+    "EMP_ID": 1,
+    "TABLA_ID": 1,
+    "CAMPO_ID": "ART_ID=19390",
+    "TRANSACTION_ID": 101426893,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616969,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=18700,DEP_ID=1",
+    "TRANSACTION_ID": 101432218,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616970,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=3406,DEP_ID=1",
+    "TRANSACTION_ID": 101433050,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616971,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=3316,DEP_ID=1",
+    "TRANSACTION_ID": 101433050,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616972,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=7015,DEP_ID=1",
+    "TRANSACTION_ID": 101433050,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616973,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=497,DEP_ID=1",
+    "TRANSACTION_ID": 101433050,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616974,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=18701,DEP_ID=1",
+    "TRANSACTION_ID": 101436881,
+    "TIPO_NOVEDAD": 0
+  },
+  {
+    "DB_NOTIF_ID": 14616975,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=6204,DEP_ID=1",
+    "TRANSACTION_ID": 101438500,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616976,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=16637,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616977,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=13845,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616978,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=20009,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616979,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=17338,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616980,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=19021,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616981,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=18470,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616982,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=4440,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616983,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=770,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616984,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=748,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616985,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=759,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616986,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=802,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14616987,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=16642,DEP_ID=1",
+    "TRANSACTION_ID": 101447487,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14618802,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=19051,DEP_ID=1",
+    "TRANSACTION_ID": 101533374,
+    "TIPO_NOVEDAD": 1
+  },
+  {
+    "DB_NOTIF_ID": 14618803,
+    "EMP_ID": 1,
+    "TABLA_ID": 214,
+    "CAMPO_ID": "ART_ID=18038,DEP_ID=1",
+    "TRANSACTION_ID": 101533374,
+    "TIPO_NOVEDAD": 1
+  }
+]
