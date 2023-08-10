@@ -1,6 +1,5 @@
 import { Injectable, OnModuleInit } from '@nestjs/common';
 import * as firebird from 'node-firebird';
-import * as fs from 'fs';
 
 @Injectable()
 export class FirebirdService implements OnModuleInit {
@@ -29,6 +28,7 @@ export class FirebirdService implements OnModuleInit {
           db.query(query, [], (err, result) => {
             if (err) throw err;
             if (result.length > 0) {
+<<<<<<< HEAD
               fs.readFile('log.json', (err, data) => {
                 if (err) throw err;
 
@@ -56,12 +56,20 @@ export class FirebirdService implements OnModuleInit {
                   if (err) throw err;
                 });
               });
+=======
+              console.log(result);
+>>>>>>> 9e8e026 (borrados:        log.json)
             }
           });
         } catch (err) {
           console.log(err);
         }
+<<<<<<< HEAD
       }, 100);
+=======
+      }, 2000);
+      db.detach();
+>>>>>>> 9e8e026 (borrados:        log.json)
     });
   }
 }
