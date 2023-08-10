@@ -4,8 +4,8 @@ import * as firebird from 'node-firebird';
 @Injectable()
 export class FirebirdService implements OnModuleInit {
   private options = {
-    // host: 'rigelec.com.ar',
-    host: '10.16.10.16',
+    host: 'rigelec.com.ar',
+    // host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -28,48 +28,14 @@ export class FirebirdService implements OnModuleInit {
           db.query(query, [], (err, result) => {
             if (err) throw err;
             if (result.length > 0) {
-<<<<<<< HEAD
-              fs.readFile('log.json', (err, data) => {
-                if (err) throw err;
-
-                let logArray = [];
-
-                try {
-                  logArray = JSON.parse(data.toString());
-                } catch (e) {
-                  console.log('Error al leer el archivo log.json', e);
-                }
-
-                result.forEach((item) => {
-                  if (
-                    !logArray.find((x) => x.DB_NOTIF_ID === item.DB_NOTIF_ID)
-                  ) {
-                    logArray.push(item);
-                    const tablaId = logArray[0].TABLA_ID;
-                    const article = logArray[0].CAMPO_ID.split(',')[0];
-                    const type = logArray[0].TIPO_NOVEDAD;
-                    console.log(tablaId, article, type);
-                  }
-                });
-
-                fs.writeFile('log.json', JSON.stringify(logArray), (err) => {
-                  if (err) throw err;
-                });
-              });
-=======
+              console.log('Changes detected in Firebird database');
               console.log(result);
->>>>>>> 9e8e026 (borrados:        log.json)
             }
           });
         } catch (err) {
           console.log(err);
         }
-<<<<<<< HEAD
       }, 100);
-=======
-      }, 2000);
-      db.detach();
->>>>>>> 9e8e026 (borrados:        log.json)
     });
   }
 }
