@@ -24,18 +24,182 @@ export class PaljetSyncService {
   };
 
   async syncArticles() {
-    // Lógica para sincronizar artículos
+    const query =
+      'SELECT ART_ID, EAN, DESCRIPCION, MOD, MED, MARCA_ID FROM ARTICULOS WHERE MARCA_ID IS NOT NULL';
+    return new Promise<string>((resolve, reject) => {
+      firebird.attach(this.options, (err, db) => {
+        if (err) {
+          reject(err);
+          return;
+        }
+
+        db.query(query, [], async (err, result) => {
+          if (err) {
+            reject(err);
+            return;
+          }
+
+          let newArticleCount = 0;
+
+          for (const item of result) {
+            console.log(
+              `Cantidad de artículos sincronizados: ${newArticleCount} de ${result.length}`,
+            );
+            const existingArticle = await this.articleModel.findOne({
+              _id: item.ART_ID,
+            });
+
+            if (!existingArticle) {
+              const newArticle = new this.articleModel({
+                _id: item.ART_ID,
+                EAN: item.EAN,
+                DESCRIPCION: item.DESCRIPCION,
+                MOD: item.MOD,
+                MED: item.MED,
+                MARCA_ID: item.MARCA_ID,
+              });
+
+              await newArticle.save();
+              newArticleCount++;
+            }
+          }
+
+          resolve(
+            `Sincronización funcionando correctamente. Se agregaron ${newArticleCount} nuevos artículos.`,
+          );
+        });
+      });
+    });
   }
 
   async syncPriceList() {
-    // Lógica para sincronizar lista de precios
+    const query = 'SELECT * FROM ARTLPR WHERE LISTA_ID = 11';
+    return new Promise<string>((resolve, reject) => {
+      firebird.attach(this.options, (err, db) => {
+        if (err) {
+          reject(err);
+          return;
+        }
+
+        db.query(query, [], async (err, result) => {
+          if (err) {
+            reject(err);
+            return;
+          }
+
+          let newArtlprCount = 0;
+
+          for (const item of result) {
+            console.log(
+              `Cantidad de precios sincronizados: ${newArtlprCount} de ${result.length}`,
+            );
+            const existingArtlpr = await this.listPriceModel.findOne({
+              _id: item.ARTLPR_ID,
+            });
+
+            if (!existingArtlpr) {
+              const newArtlpr = new this.listPriceModel({
+                _id: item.ARTLPR_ID,
+                ART_ID: item.ART_ID,
+                PC_CTO_LISTA: item.PC_CTO_LISTA,
+                PR_VTA: item.PR_VTA,
+                PR_FINAL: item.PR_FINAL,
+              });
+
+              await newArtlpr.save();
+              newArtlprCount++;
+            }
+          }
+
+          resolve(
+            `Sincronización funcionando correctamente. Se agregaron ${newArtlprCount} nuevos precios.`,
+          );
+        });
+      });
+    });
   }
 
   async syncStock() {
-    // Lógica para sincronizar stock
+    const query = 'SELECT STK_ID, ART_ID, DISPONIBLE FROM STOCK';
+    return new Promise<string>((resolve, reject) => {
+      firebird.attach(this.options, (err, db) => {
+        if (err) {
+          reject(err);
+          return;
+        }
+
+        db.query(query, [], async (err, result) => {
+          if (err) {
+            reject(err);
+            return;
+          }
+
+          let newStockCount = 0;
+
+          for (const item of result) {
+            console.log(
+              `Cantidad de stock sincronizados: ${newStockCount} de ${result.length}`,
+            );
+            const existingStock = await this.stockModel.findOne({
+              _id: item.STK_ID,
+            });
+
+            if (!existingStock) {
+              const newStock = new this.stockModel({
+                _id: item.STK_ID,
+                ART_ID: item.ART_ID,
+                DISPONIBLE: item.DISPONIBLE,
+              });
+
+              await newStock.save();
+              newStockCount++;
+            }
+          }
+
+          resolve(
+            `Sincronización funcionando correctamente. Se agregaron ${newStockCount} nuevos stock.`,
+          );
+        });
+      });
+    });
   }
 
   async getStockCount() {
-    // Lógica para obtener el conteo de stock
+    return new Promise<string>(async (resolve, reject) => {
+      const firebirdCount = () => {
+        const query = 'SELECT COUNT(*) FROM STOCK';
+        return new Promise<number>((resolve, reject) => {
+          firebird.attach(this.options, (err, db) => {
+            if (err) {
+              reject(err);
+              return;
+            }
+
+            db.query(query, [], (err, result) => {
+              if (err) {
+                reject(err);
+                return;
+              }
+
+              resolve(result[0].COUNT);
+            });
+          });
+        });
+      };
+
+      const mongoCount = () => {
+        return this.stockModel.countDocuments().exec();
+      };
+
+      try {
+        const firebirdResult = await firebirdCount();
+        const mongoResult = await mongoCount();
+        resolve(
+          `Sincronizacion funcionando correctamente. Firebird: ${firebirdResult} - Mongo: ${mongoResult}`,
+        );
+      } catch (error) {
+        reject(error);
+      }
+    });
   }
 }
