@@ -16,8 +16,8 @@ export class FirebirdService implements OnModuleInit {
   ) {}
 
   private options = {
-    host: 'rigelec.com.ar',
-    // host: '10.16.10.16',
+    // host: 'rigelec.com.ar',
+    host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -41,7 +41,6 @@ export class FirebirdService implements OnModuleInit {
             if (err) throw err;
             if (result.length > 0) {
               result.forEach((change) => {
-                console.log(change);
                 const CAMPO_ID = change.CAMPO_ID;
                 const value = CAMPO_ID.split('=')[1].split(',')[0];
                 switch (change.TABLA_ID) {
@@ -79,7 +78,7 @@ export class FirebirdService implements OnModuleInit {
                     break;
                   case 214:
                     db.query(
-                      `SELECT DISPONIBLE FROM STOCK WHERE ART_ID = ${value}`,
+                      `SELECT * FROM STOCK WHERE ART_ID = ${value}`,
                       [],
                       (err, result) => {
                         if (err) throw err;
@@ -90,11 +89,7 @@ export class FirebirdService implements OnModuleInit {
                           .findOne({ _id: value })
                           .then((existingStock) => {
                             if (!existingStock) {
-                              const newStock = new this.stockModel({
-                                _id: value,
-                                DISPONIBLE: result[0].DISPONIBLE,
-                              });
-                              newStock.save();
+                              console.log(result);
                             } else {
                               this.stockModel.updateOne(
                                 { _id: value },
@@ -107,29 +102,32 @@ export class FirebirdService implements OnModuleInit {
 
                     break;
                   case 88:
-                    db.query(
-                      `SELECT _id, ART_ID, PR_VTA, PR_FINAL FROM ARTLPR WHERE ART_ID = ${value}`,
-                      [],
-                      (err, result) => {
-                        if (err) throw err;
-                        console.log(result);
-                        this.listPriceModel
-                          .findOne({ _id: result[0]._id })
-                          .then((existingListPrice) => {
-                            if (!existingListPrice) {
-                              const newListPrice = new this.listPriceModel({
-                                ...result[0],
-                              });
-                              newListPrice.save();
-                            } else {
-                              this.listPriceModel.updateOne(
-                                { _id: result[0]._id },
-                                { ...result[0] },
-                              );
-                            }
-                          });
-                      },
+                    console.log(
+                      `el precio del articulo ${value} ha creado creado o modificado`,
                     );
+                    // db.query(
+                    //   `SELECT _id, ART_ID, PR_VTA, PR_FINAL FROM ARTLPR WHERE ART_ID = ${value}`,
+                    //   [],
+                    //   (err, result) => {
+                    //     if (err) throw err;
+                    //     console.log(result);
+                    //     this.listPriceModel
+                    //       .findOne({ _id: result[0]._id })
+                    //       .then((existingListPrice) => {
+                    //         if (!existingListPrice) {
+                    //           const newListPrice = new this.listPriceModel({
+                    //             ...result[0],
+                    //           });
+                    //           newListPrice.save();
+                    //         } else {
+                    //           this.listPriceModel.updateOne(
+                    //             { _id: result[0]._id },
+                    //             { ...result[0] },
+                    //           );
+                    //         }
+                    //       });
+                    //   },
+                    // );
 
                     break;
                   default:
