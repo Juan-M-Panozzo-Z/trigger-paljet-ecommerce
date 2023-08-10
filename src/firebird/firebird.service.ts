@@ -16,8 +16,8 @@ export class FirebirdService implements OnModuleInit {
   ) {}
 
   private options = {
-    // host: 'rigelec.com.ar',
-    host: '10.16.10.16',
+    host: 'rigelec.com.ar',
+    // host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -41,6 +41,7 @@ export class FirebirdService implements OnModuleInit {
             if (err) throw err;
             if (result.length > 0) {
               result.forEach((change) => {
+                console.log(change);
                 const CAMPO_ID = change.CAMPO_ID;
                 const value = CAMPO_ID.split('=')[1].split(',')[0];
                 switch (change.TABLA_ID) {
