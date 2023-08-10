@@ -141,6 +141,7 @@ export class FirebirdService implements OnModuleInit {
           console.log(err);
         }
       }, 2000);
+      db.detach();
     });
   }
 }
