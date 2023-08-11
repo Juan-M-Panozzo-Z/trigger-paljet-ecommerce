@@ -16,8 +16,8 @@ export class FirebirdService implements OnModuleInit {
   ) {}
 
   private options = {
-    // host: 'rigelec.com.ar',
-    host: '10.16.10.16',
+    host: 'rigelec.com.ar',
+    // host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -39,96 +39,51 @@ export class FirebirdService implements OnModuleInit {
         try {
           db.query(query, [], (err, result) => {
             if (err) throw err;
-            if (result.length > 0) {
+            if (result.length > 0 && result.length !== undefined) {
               result.forEach((change) => {
                 const CAMPO_ID = change.CAMPO_ID;
-                const value = CAMPO_ID.split('=')[1].split(',')[0];
+                const value = Number(CAMPO_ID.split('=')[1].split(',')[0]);
+                console.log(value);
                 switch (change.TABLA_ID) {
                   case 1:
                     db.query(
-                      `SELECT COD_ART, DESCRIPCION, EAN, MOD, MED, MARCA_ID FROM ARTICULOS WHERE ART_ID = ${value} AND MARCA_ID IS NOT NULL`,
+                      `SELECT ART_ID, DESCRIPCION, EAN, MOD, MED, MARCA_ID FROM ARTICULOS WHERE ART_ID = ${value} AND MARCA_ID IS NOT NULL`,
                       [],
                       (err, result) => {
                         if (err) throw err;
-                        console.log(
-                          `el articulo ${value} ha sido creado o modificado`,
-                        );
                         this.articleModel
-                          .findOne({ _id: result[0].COD_ART })
-                          .then((existingArticle) => {
-                            if (!existingArticle) {
+                          .findOneAndUpdate(
+                            { _id: value },
+                            {
+                              EAN: result[0].EAN,
+                              DESCRIPCION: result[0].DESCRIPCION,
+                              MOD: result[0].MOD,
+                              MED: result[0].MED,
+                              MARCA_ID: result[0].MARCA_ID,
+                            },
+                            { upsert: true },
+                          )
+                          .then((article) => {
+                            if (!article) {
                               const newArticle = new this.articleModel({
-                                _id: result[0].COD_ART,
-                                DESCRIPCION: result[0].DESCRIPCION,
+                                _id: result[0].ART_ID,
                                 EAN: result[0].EAN,
+                                DESCRIPCION: result[0].DESCRIPCION,
                                 MOD: result[0].MOD,
                                 MED: result[0].MED,
                                 MARCA_ID: result[0].MARCA_ID,
                               });
                               newArticle.save();
-                            } else {
-                              this.articleModel.updateOne(
-                                { _id: result[0].COD_ART },
-                                { ...result[0] },
-                              );
                             }
+                          })
+                          .catch((err) => {
+                            console.log(err);
                           });
                       },
                     );
-                    break;
-                  case 214:
-                    db.query(
-                      `SELECT * FROM STOCK WHERE ART_ID = ${value}`,
-                      [],
-                      (err, result) => {
-                        if (err) throw err;
-                        console.log(
-                          `el articulo ${value} tiene ${result[0].DISPONIBLE} unidades en stock`,
-                        );
-                        this.stockModel
-                          .findOne({ _id: value })
-                          .then((existingStock) => {
-                            if (!existingStock) {
-                              console.log(result);
-                            } else {
-                              this.stockModel.updateOne(
-                                { _id: value },
-                                { DISPONIBLE: result[0].DISPONIBLE },
-                              );
-                            }
-                          });
-                      },
-                    );
-
-                    break;
-                  case 88:
                     console.log(
-                      `el precio del articulo ${value} ha creado creado o modificado`,
+                      `el articulo ${value} ha sido creado o modificado`,
                     );
-                    // db.query(
-                    //   `SELECT _id, ART_ID, PR_VTA, PR_FINAL FROM ARTLPR WHERE ART_ID = ${value}`,
-                    //   [],
-                    //   (err, result) => {
-                    //     if (err) throw err;
-                    //     console.log(result);
-                    //     this.listPriceModel
-                    //       .findOne({ _id: result[0]._id })
-                    //       .then((existingListPrice) => {
-                    //         if (!existingListPrice) {
-                    //           const newListPrice = new this.listPriceModel({
-                    //             ...result[0],
-                    //           });
-                    //           newListPrice.save();
-                    //         } else {
-                    //           this.listPriceModel.updateOne(
-                    //             { _id: result[0]._id },
-                    //             { ...result[0] },
-                    //           );
-                    //         }
-                    //       });
-                    //   },
-                    // );
-
                     break;
                   default:
                     break;
@@ -140,7 +95,7 @@ export class FirebirdService implements OnModuleInit {
           console.log(err);
         }
       }, 2000);
-      db.detach();
+      // db.detach();
     });
   }
 }
