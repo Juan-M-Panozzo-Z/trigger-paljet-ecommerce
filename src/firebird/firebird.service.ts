@@ -43,7 +43,6 @@ export class FirebirdService implements OnModuleInit {
               result.forEach((change) => {
                 const CAMPO_ID = change.CAMPO_ID;
                 const value = Number(CAMPO_ID.split('=')[1].split(',')[0]);
-                console.log(value);
                 switch (change.TABLA_ID) {
                   case 1:
                     db.query(
@@ -51,40 +50,109 @@ export class FirebirdService implements OnModuleInit {
                       [],
                       (err, result) => {
                         if (err) throw err;
-                        this.articleModel
-                          .findOneAndUpdate(
-                            { _id: value },
-                            {
-                              EAN: result[0].EAN,
+                        console.log('Articulo desde paljet', result);
+                        const updateArticle = async () => {
+                          const article = await this.articleModel
+                            .findOne({
+                              _id: value,
+                            })
+                            .exec();
+                          if (article) {
+                            article.DESCRIPCION = result[0].DESCRIPCION;
+                            article.EAN = result[0].EAN;
+                            article.MOD = result[0].MOD;
+                            article.MED = result[0].MED;
+                            article.MARCA_ID = result[0].MARCA_ID;
+                            console.log('articulo actualizado', article);
+                            article.save();
+                          } else {
+                            const article = new this.articleModel({
+                              _id: result[0].ART_ID,
+                              ART_ID: result[0].ART_ID,
                               DESCRIPCION: result[0].DESCRIPCION,
+                              EAN: result[0].EAN,
                               MOD: result[0].MOD,
                               MED: result[0].MED,
                               MARCA_ID: result[0].MARCA_ID,
-                            },
-                            { upsert: true },
-                          )
-                          .then((article) => {
-                            if (!article) {
-                              const newArticle = new this.articleModel({
-                                _id: result[0].ART_ID,
-                                EAN: result[0].EAN,
-                                DESCRIPCION: result[0].DESCRIPCION,
-                                MOD: result[0].MOD,
-                                MED: result[0].MED,
-                                MARCA_ID: result[0].MARCA_ID,
-                              });
-                              newArticle.save();
-                            }
-                          })
-                          .catch((err) => {
-                            console.log(err);
-                          });
+                            });
+                            console.log('nuevo articulo', article);
+                          }
+                        };
+                        updateArticle();
                       },
                     );
+                    break;
+
+                  case 214:
                     console.log(
-                      `el articulo ${value} ha sido creado o modificado`,
+                      `el articulo ${value} ha tenido movimientos de stock`,
+                    );
+                    db.query(
+                      `SELECT STK_ID, ART_ID, DISPONIBLE FROM STOCK WHERE ART_ID = ${value}`,
+                      [],
+                      (err, result) => {
+                        if (err) throw err;
+                        console.log('Stock desde paljet', result);
+                        const updateStock = async () => {
+                          const stock = await this.stockModel
+                            .findOne({
+                              ART_ID: value,
+                            })
+                            .exec();
+                          if (stock) {
+                            stock.DISPONIBLE = result[0].DISPONIBLE;
+                            console.log('stock actualizado', stock);
+                            stock.save();
+                          } else {
+                            const stock = new this.stockModel({
+                              _id: result[0].STK_ID,
+                              ART_ID: result[0].ART_ID,
+                              DISPONIBLE: result[0].DISPONIBLE,
+                            });
+                            console.log('nuevo stock', stock);
+                          }
+                        };
+                        updateStock();
+                      },
                     );
                     break;
+
+                  case 88:
+                    console.log(
+                      `el articulo ${value} ha tenido cambios de precio`,
+                    );
+                    db.query(
+                      `SELECT ARTLPR_ID, ART_ID, PR_VTA, PR_FINAL FROM ARTLPR WHERE ART_ID = ${value} AND LISTA_ID = 11`,
+                      [],
+                      (err, result) => {
+                        if (err) throw err;
+                        console.log('Precio desde paljet', result);
+                        const updatePrice = async () => {
+                          const price = await this.listPriceModel
+                            .findOne({
+                              ART_ID: value,
+                            })
+                            .exec();
+                          if (price) {
+                            price.PR_VTA = result[0].PR_VTA;
+                            price.PR_FINAL = result[0].PR_FINAL;
+                            console.log('precio actualizado', price);
+                            price.save();
+                          } else {
+                            const price = new this.listPriceModel({
+                              _id: result[0].ARTLPR_ID,
+                              ART_ID: result[0].ART_ID,
+                              PR_VTA: result[0].PR_VTA,
+                              PR_FINAL: result[0].PR_FINAL,
+                            });
+                            console.log('nuevo precio', price);
+                          }
+                        };
+                        updatePrice();
+                      },
+                    );
+                    break;
+
                   default:
                     break;
                 }
