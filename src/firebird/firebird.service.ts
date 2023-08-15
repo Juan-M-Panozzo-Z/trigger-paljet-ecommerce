@@ -16,8 +16,8 @@ export class FirebirdService implements OnModuleInit {
   ) {}
 
   private options = {
-    host: 'rigelec.com.ar',
-    // host: '10.16.10.16',
+    // host: 'rigelec.com.ar',
+    host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',

@@ -20,8 +20,8 @@ export class PaljetSyncController {
     return this.paljetSyncService.syncStock();
   }
 
-  @Get('stock/count')
-  async getStockCount() {
-    return this.paljetSyncService.getStockCount();
+  @Get('brands')
+  async syncBrands() {
+    return this.paljetSyncService.syncBrands();
   }
 }

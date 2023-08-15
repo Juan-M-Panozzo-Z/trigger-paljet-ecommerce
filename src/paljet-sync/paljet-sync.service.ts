@@ -5,6 +5,7 @@ import { Model } from 'mongoose';
 import { Article } from './models/article.model';
 import { ListPrice } from './models/listPrice.model';
 import { Stock } from './models/stock.model';
+import { Brand } from './models/brand.model';
 
 @Injectable()
 export class PaljetSyncService {
@@ -13,11 +14,12 @@ export class PaljetSyncService {
     @InjectModel(ListPrice.name)
     private readonly listPriceModel: Model<ListPrice>,
     @InjectModel(Stock.name) private readonly stockModel: Model<Stock>,
+    @InjectModel(Brand.name) private readonly brandModel: Model<Brand>,
   ) {}
 
   options: firebird.Options = {
-    host: 'rigelec.com.ar',
-    // host: '10.16.10.16',
+    // host: 'rigelec.com.ar',
+    host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -165,42 +167,47 @@ export class PaljetSyncService {
     });
   }
 
-  async getStockCount() {
+  async syncBrands() {
     return new Promise<string>(async (resolve, reject) => {
-      const firebirdCount = () => {
-        const query = 'SELECT COUNT(*) FROM STOCK';
-        return new Promise<number>((resolve, reject) => {
-          firebird.attach(this.options, (err, db) => {
+      firebird.attach(this.options, (err, db) => {
+        if (err) {
+          reject(err);
+          return;
+        }
+
+        db.query(
+          'SELECT MARCA_ID, MARCA FROM MARCAS',
+          [],
+          async (err, result) => {
             if (err) {
               reject(err);
               return;
             }
 
-            db.query(query, [], (err, result) => {
-              if (err) {
-                reject(err);
-                return;
+            let newBrandCount = 0;
+            for (const item of result) {
+              console.log(
+                `Cantidad de marcas sincronizadas: ${newBrandCount} de ${result.length}`,
+              );
+              const existingBrand = await this.brandModel.findOne({
+                _id: item.MARCA_ID,
+              });
+
+              if (!existingBrand) {
+                const newBrand = new this.brandModel({
+                  _id: item.MARCA_ID,
+                  MARCA: item.MARCA,
+                });
+
+                await newBrand.save();
+                newBrandCount++;
               }
+            }
 
-              resolve(result[0].COUNT);
-            });
-          });
-        });
-      };
-
-      const mongoCount = () => {
-        return this.stockModel.countDocuments().exec();
-      };
-
-      try {
-        const firebirdResult = await firebirdCount();
-        const mongoResult = await mongoCount();
-        resolve(
-          `Sincronizacion funcionando correctamente. Firebird: ${firebirdResult} - Mongo: ${mongoResult}`,
+            resolve(`Sincronización funcionando correctamente.`);
+          },
         );
-      } catch (error) {
-        reject(error);
-      }
+      });
     });
   }
 }
