@@ -49,36 +49,37 @@ export class FirebirdService implements OnModuleInit {
                       `SELECT ART_ID, DESCRIPCION, EAN, MOD, MED, MARCA_ID FROM ARTICULOS WHERE ART_ID = ${value} AND MARCA_ID IS NOT NULL`,
                       [],
                       (err, result) => {
-                        if (err) throw err;
                         console.log('Articulo desde paljet', result);
-                        const updateArticle = async () => {
-                          const article = await this.articleModel
-                            .findOne({
-                              _id: value,
-                            })
-                            .exec();
-                          if (article) {
-                            article.DESCRIPCION = result[0].DESCRIPCION;
-                            article.EAN = result[0].EAN;
-                            article.MOD = result[0].MOD;
-                            article.MED = result[0].MED;
-                            article.MARCA_ID = result[0].MARCA_ID;
-                            console.log('articulo actualizado', article);
-                            article.save();
-                          } else {
-                            const article = new this.articleModel({
-                              _id: result[0].ART_ID,
-                              ART_ID: result[0].ART_ID,
-                              DESCRIPCION: result[0].DESCRIPCION,
-                              EAN: result[0].EAN,
-                              MOD: result[0].MOD,
-                              MED: result[0].MED,
-                              MARCA_ID: result[0].MARCA_ID,
-                            });
-                            console.log('nuevo articulo', article);
-                          }
-                        };
-                        updateArticle();
+                        if (err) throw err;
+                        result.forEach((update) => {
+                          async () => {
+                            const article = await this.articleModel
+                              .findOne({
+                                _id: update.ART_ID,
+                              })
+                              .exec();
+                            if (article) {
+                              article.DESCRIPCION = update.DESCRIPCION;
+                              article.EAN = update.EAN;
+                              article.MOD = update.MOD;
+                              article.MED = update.MED;
+                              article.MARCA_ID = update.MARCA_ID;
+                              console.log('articulo actualizado', article);
+                              article.save();
+                            } else {
+                              const article = new this.articleModel({
+                                _id: update.ART_ID,
+                                ART_ID: update.ART_ID,
+                                DESCRIPCION: update.DESCRIPCION,
+                                EAN: update.EAN,
+                                MOD: update.MOD,
+                                MED: update.MED,
+                                MARCA_ID: update.MARCA_ID,
+                              });
+                              console.log('nuevo articulo', article);
+                            }
+                          };
+                        });
                       },
                     );
                     break;
@@ -93,26 +94,27 @@ export class FirebirdService implements OnModuleInit {
                       (err, result) => {
                         if (err) throw err;
                         console.log('Stock desde paljet', result);
-                        const updateStock = async () => {
-                          const stock = await this.stockModel
-                            .findOne({
-                              ART_ID: value,
-                            })
-                            .exec();
-                          if (stock) {
-                            stock.DISPONIBLE = result[0].DISPONIBLE;
-                            console.log('stock actualizado', stock);
-                            stock.save();
-                          } else {
-                            const stock = new this.stockModel({
-                              _id: result[0].STK_ID,
-                              ART_ID: result[0].ART_ID,
-                              DISPONIBLE: result[0].DISPONIBLE,
-                            });
-                            console.log('nuevo stock', stock);
-                          }
-                        };
-                        updateStock();
+                        result.forEach((update) => {
+                          async () => {
+                            const stock = await this.stockModel
+                              .findOne({
+                                _id: update.STK_ID,
+                              })
+                              .exec();
+                            if (stock) {
+                              stock.DISPONIBLE = update.DISPONIBLE;
+                              console.log('stock actualizado', stock);
+                              stock.save();
+                            } else {
+                              const stock = new this.stockModel({
+                                _id: update.STK_ID,
+                                ART_ID: update.ART_ID,
+                                DISPONIBLE: update.DISPONIBLE,
+                              });
+                              console.log('nuevo stock', stock);
+                            }
+                          };
+                        });
                       },
                     );
                     break;
@@ -127,28 +129,29 @@ export class FirebirdService implements OnModuleInit {
                       (err, result) => {
                         if (err) throw err;
                         console.log('Precio desde paljet', result);
-                        const updatePrice = async () => {
-                          const price = await this.listPriceModel
-                            .findOne({
-                              ART_ID: value,
-                            })
-                            .exec();
-                          if (price) {
-                            price.PR_VTA = result[0].PR_VTA;
-                            price.PR_FINAL = result[0].PR_FINAL;
-                            console.log('precio actualizado', price);
-                            price.save();
-                          } else {
-                            const price = new this.listPriceModel({
-                              _id: result[0].ARTLPR_ID,
-                              ART_ID: result[0].ART_ID,
-                              PR_VTA: result[0].PR_VTA,
-                              PR_FINAL: result[0].PR_FINAL,
-                            });
-                            console.log('nuevo precio', price);
-                          }
-                        };
-                        updatePrice();
+                        result.forEach((update) => {
+                          async () => {
+                            const price = await this.listPriceModel
+                              .findOne({
+                                _id: update.ARTLPR_ID,
+                              })
+                              .exec();
+                            if (price) {
+                              price.PR_VTA = update.PR_VTA;
+                              price.PR_FINAL = update.PR_FINAL;
+                              console.log('precio actualizado', price);
+                              price.save();
+                            } else {
+                              const price = new this.listPriceModel({
+                                _id: update.ARTLPR_ID,
+                                ART_ID: update.ART_ID,
+                                PR_VTA: update.PR_VTA,
+                                PR_FINAL: update.PR_FINAL,
+                              });
+                              console.log('nuevo precio', price);
+                            }
+                          };
+                        });
                       },
                     );
                     break;
