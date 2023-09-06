@@ -24,4 +24,9 @@ export class PaljetSyncController {
   async syncBrands() {
     return this.paljetSyncService.syncBrands();
   }
+
+  @Get('purchases')
+  async syncPurchases() {
+    return this.paljetSyncService.syncPurchases();
+  }
 }

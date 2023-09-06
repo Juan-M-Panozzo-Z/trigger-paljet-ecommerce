@@ -18,8 +18,8 @@ export class PaljetSyncService {
   ) {}
 
   options: firebird.Options = {
-    // host: 'rigelec.com.ar',
-    host: '10.16.10.16',
+    host: 'rigelec.com.ar',
+    // host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -205,6 +205,30 @@ export class PaljetSyncService {
             }
 
             resolve(`Sincronización funcionando correctamente.`);
+          },
+        );
+      });
+    });
+  }
+
+  async syncPurchases() {
+    return new Promise<string>(async (resolve, reject) => {
+      firebird.attach(this.options, (err, db) => {
+        if (err) {
+          reject(err);
+          return;
+        }
+
+        db.query(
+          'SELECT * FROM CPR WHERE FEC_EMISION >= ?',
+          [new Date(2023, 8, 20)],
+          async (err, result) => {
+            if (err) {
+              reject(err);
+              return;
+            }
+            console.log(result);
+            resolve('Listado en consola');
           },
         );
       });

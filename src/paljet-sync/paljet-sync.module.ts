@@ -6,6 +6,7 @@ import { Article, ArticleSchema } from './models/article.model';
 import { ListPrice, ListPriceSchema } from './models/listPrice.model';
 import { Stock, StockSchema } from './models/stock.model';
 import { Brand, BrandSchema } from './models/brand.model';
+import { Event, EventSchema } from '../firebird/models/event.model';
 
 @Module({
   imports: [
@@ -14,6 +15,7 @@ import { Brand, BrandSchema } from './models/brand.model';
       { name: ListPrice.name, schema: ListPriceSchema },
       { name: Stock.name, schema: StockSchema },
       { name: Brand.name, schema: BrandSchema },
+      { name: Event.name, schema: EventSchema },
     ]),
   ],
   controllers: [PaljetSyncController],

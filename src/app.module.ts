@@ -7,6 +7,7 @@ import { FirebirdService } from './firebird/firebird.service';
 import { ArticleSchema } from './paljet-sync/models/article.model';
 import { ListPriceSchema } from './paljet-sync/models/listPrice.model';
 import { StockSchema } from './paljet-sync/models/stock.model';
+import { EventSchema } from './firebird/models/event.model';
 
 @Module({
   imports: [
@@ -17,6 +18,7 @@ import { StockSchema } from './paljet-sync/models/stock.model';
       { name: 'Article', schema: ArticleSchema },
       { name: 'ListPrice', schema: ListPriceSchema },
       { name: 'Stock', schema: StockSchema },
+      { name: 'Event', schema: EventSchema },
     ]),
     PaljetSyncModule,
   ],
