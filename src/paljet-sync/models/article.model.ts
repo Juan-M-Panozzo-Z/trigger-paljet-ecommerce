@@ -19,6 +19,9 @@ export class Article extends Document {
   MED: string;
 
   @Prop()
+  URL_ARCHIVO: string;
+
+  @Prop()
   MARCA_ID: number;
 }
 

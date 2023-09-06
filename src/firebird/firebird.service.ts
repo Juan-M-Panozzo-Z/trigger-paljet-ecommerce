@@ -4,6 +4,8 @@ import * as firebird from 'node-firebird';
 import { Model } from 'mongoose';
 import { Event } from './models/event.model';
 import { Article } from 'src/paljet-sync/models/article.model';
+import { Stock } from 'src/paljet-sync/models/stock.model';
+import { ListPrice } from 'src/paljet-sync/models/listPrice.model';
 import { retryWhen, delay, take } from 'rxjs/operators';
 import { of } from 'rxjs';
 
@@ -12,10 +14,14 @@ export class FirebirdService implements OnModuleInit {
   constructor(
     @InjectModel(Event.name) private readonly eventModel: Model<Event>,
     @InjectModel(Article.name) private readonly articleModel: Model<Article>,
+    @InjectModel(Stock.name) private readonly stockModel: Model<Stock>,
+    @InjectModel(ListPrice.name)
+    private readonly listPriceModel: Model<ListPrice>,
   ) {}
 
   private options = {
-    host: 'rigelec.com.ar',
+    // host: 'rigelec.com.ar',
+    host: '10.16.10.16',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -65,8 +71,8 @@ export class FirebirdService implements OnModuleInit {
     console.log('Connection to Firebird lost. Retrying...');
     of(null)
       .pipe(
-        delay(5000), // Delay for 5 seconds before retrying
-        take(10), // Retry 10 times
+        delay(200),
+        take(100),
         retryWhen((errors) => errors),
       )
       .subscribe(() => {
@@ -82,22 +88,105 @@ export class FirebirdService implements OnModuleInit {
       if (change.operationType === 'insert') {
         const newEvent = change.fullDocument;
         const value = Number(newEvent.CAMPO_ID.split('=')[1].split(',')[0]);
-        console.log('Nuevo evento:', newEvent);
         switch (newEvent.TABLA_ID) {
           case 1:
-            console.log('Evento en tabla "ARTICULOS"');
-            const existingArticle = await this.articleModel.findOne({
-              _id: value,
+            const articleQuery = `SELECT ART_ID, DESCRIPCION, EAN, MOD, MED, URL_ARCHIVO, MARCA_ID FROM ARTICULOS WHERE ART_ID = ${value} AND MARCA_ID IS NOT NULL`;
+            firebird.attach(this.options, (err, db) => {
+              if (err) throw err;
+              db.query(articleQuery, [], async (err, article) => {
+                if (err) throw err;
+                if (article.length > 0) {
+                  const existingArticle = await this.articleModel.findOne({
+                    _id: article[0].ART_ID,
+                  });
+                  if (existingArticle) {
+                    await this.articleModel.updateOne(
+                      { _id: article[0].ART_ID },
+                      {
+                        DESCRIPCION: article[0].DESCRIPCION,
+                        EAN: article[0].EAN,
+                        MOD: article[0].MOD,
+                        MED: article[0].MED,
+                        URL_ARCHIVO: article[0].URL_ARCHIVO,
+                        MARCA_ID: article[0].MARCA_ID,
+                      },
+                    );
+                  } else {
+                    const newArticle = new this.articleModel({
+                      _id: article[0].ART_ID,
+                      DESCRIPCION: article[0].DESCRIPCION,
+                      EAN: article[0].EAN,
+                      MOD: article[0].MOD,
+                      MED: article[0].MED,
+                      URL_ARCHIVO: article[0].URL_ARCHIVO,
+                      MARCA_ID: article[0].MARCA_ID,
+                    });
+                    newArticle.save();
+                  }
+                  console.log('Artículo actualizado');
+                }
+              });
             });
-            if (existingArticle) {
-              console.log('Artículo existente. Actualizar');
-            }
             break;
           case 88:
-            console.log('Evento en tabla "ARTPR"');
+            const listPriceQuery = `SELECT ARTLPR_ID, ART_ID, PR_VTA, PR_FINAL FROM ARTLPR WHERE ARTLPR_ID = ${value} AND LISTA_ID = 11`;
+            firebird.attach(this.options, (err, db) => {
+              if (err) throw err;
+              db.query(listPriceQuery, [], async (err, listPrice) => {
+                if (err) throw err;
+                if (listPrice.length > 0) {
+                  const existingListPrice = this.listPriceModel.findOne({
+                    ARTLPR_ID: listPrice[0].ARTLPR_ID,
+                  });
+                  if (existingListPrice) {
+                    await this.listPriceModel.updateOne(
+                      { _id: listPrice[0].ARTLPR_ID },
+                      {
+                        ART_ID: listPrice[0].ART_ID,
+                        PR_VTA: listPrice[0].PR_VTA,
+                        PR_FINAL: listPrice[0].PR_FINAL,
+                      },
+                    );
+                  } else {
+                    const newListPrice = new this.listPriceModel({
+                      _id: listPrice[0].ARTLPR_ID,
+                      ART_ID: listPrice[0].ART_ID,
+                      PR_VTA: listPrice[0].PR_VTA,
+                      PR_FINAL: listPrice[0].PR_FINAL,
+                    });
+                    newListPrice.save();
+                  }
+                  console.log('Lista de precios actualizada');
+                }
+              });
+            });
             break;
           case 214:
-            console.log('Evento en tabla "STOCK"');
+            const stockQuery = `SELECT STK_ID, ART_ID, DISPONIBLE FROM STOCK WHERE ART_ID = ${value}`;
+            firebird.attach(this.options, (err, db) => {
+              if (err) throw err;
+              db.query(stockQuery, [], async (err, stock) => {
+                if (err) throw err;
+                if (stock.length > 0) {
+                  const existingStock = this.stockModel.findOne({
+                    ART_ID: stock[0].ART_ID,
+                  });
+                  if (existingStock) {
+                    await this.stockModel.updateOne({
+                      DISPONIBLE: stock[0].DISPONIBLE,
+                    });
+                  } else {
+                    const newStock = new this.stockModel({
+                      _id: stock[0].STK_ID,
+                      ART_ID: stock[0].ART_ID,
+                      DISPONIBLE: stock[0].DISPONIBLE,
+                    });
+                    newStock.save();
+                  }
+                  console.log('Stock actualizado');
+                }
+              });
+            });
             break;
         }
       }
