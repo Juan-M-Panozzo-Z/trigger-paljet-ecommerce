@@ -90,7 +90,7 @@ export class FirebirdService implements OnModuleInit {
         const value = Number(newEvent.CAMPO_ID.split('=')[1].split(',')[0]);
         switch (newEvent.TABLA_ID) {
           case 1:
-            const articleQuery = `SELECT ART_ID, DESCRIPCION, EAN, MOD, MED, URL_ARCHIVO, MARCA_ID FROM ARTICULOS WHERE ART_ID = ${value} AND MARCA_ID IS NOT NULL`;
+            const articleQuery = `SELECT ART_ID, DESCRIPCION, COD_ART, EAN, MOD, MED, URL_ARCHIVO, MARCA_ID FROM ARTICULOS WHERE ART_ID = ${value} AND MARCA_ID IS NOT NULL`;
             firebird.attach(this.options, (err, db) => {
               if (err) throw err;
               db.query(articleQuery, [], async (err, article) => {
@@ -104,6 +104,7 @@ export class FirebirdService implements OnModuleInit {
                       { _id: article[0].ART_ID },
                       {
                         DESCRIPCION: article[0].DESCRIPCION,
+                        COD_ART: article[0].COD_ART,
                         EAN: article[0].EAN,
                         MOD: article[0].MOD,
                         MED: article[0].MED,
@@ -115,6 +116,7 @@ export class FirebirdService implements OnModuleInit {
                     const newArticle = new this.articleModel({
                       _id: article[0].ART_ID,
                       DESCRIPCION: article[0].DESCRIPCION,
+                      COD_ART: article[0].COD_ART,
                       EAN: article[0].EAN,
                       MOD: article[0].MOD,
                       MED: article[0].MED,

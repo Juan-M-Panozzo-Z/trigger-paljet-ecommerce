@@ -28,7 +28,7 @@ export class PaljetSyncService {
 
   async syncArticles() {
     const query =
-      'SELECT ART_ID, EAN, DESCRIPCION, MOD, MED, MARCA_ID FROM ARTICULOS WHERE MARCA_ID IS NOT NULL';
+      'SELECT ART_ID, COD_ART, EAN, DESCRIPCION, MOD, MED, URL_ARCHIVO, MARCA_ID FROM ARTICULOS WHERE MARCA_ID IS NOT NULL';
     return new Promise<string>((resolve, reject) => {
       firebird.attach(this.options, (err, db) => {
         if (err) {
@@ -55,10 +55,12 @@ export class PaljetSyncService {
             if (!existingArticle) {
               const newArticle = new this.articleModel({
                 _id: item.ART_ID,
+                COD_ART: item.COD_ART,
                 EAN: item.EAN,
                 DESCRIPCION: item.DESCRIPCION,
                 MOD: item.MOD,
                 MED: item.MED,
+                URL_ARCHIVO: item.URL_ARCHIVO,
                 MARCA_ID: item.MARCA_ID,
               });
 

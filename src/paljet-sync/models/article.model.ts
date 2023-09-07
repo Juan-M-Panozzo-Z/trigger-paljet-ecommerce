@@ -7,6 +7,9 @@ export class Article extends Document {
   _id: number;
 
   @Prop()
+  COD_ART: number;
+
+  @Prop()
   EAN: string;
 
   @Prop({ required: true })
