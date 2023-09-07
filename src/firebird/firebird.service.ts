@@ -123,7 +123,10 @@ export class FirebirdService implements OnModuleInit {
                     });
                     newArticle.save();
                   }
-                  console.log('Artículo actualizado');
+                  console.log(
+                    'Artículo actualizado a las',
+                    new Date().toLocaleString(),
+                  );
                 }
               });
             });
@@ -156,7 +159,10 @@ export class FirebirdService implements OnModuleInit {
                     });
                     newListPrice.save();
                   }
-                  console.log('Lista de precios actualizada');
+                  console.log(
+                    'Lista de precios actualizada a las',
+                    new Date().toLocaleString(),
+                  );
                 }
               });
             });
@@ -183,7 +189,10 @@ export class FirebirdService implements OnModuleInit {
                     });
                     newStock.save();
                   }
-                  console.log('Stock actualizado');
+                  console.log(
+                    'Stock actualizado a las',
+                    new Date().toLocaleString(),
+                  );
                 }
               });
             });
