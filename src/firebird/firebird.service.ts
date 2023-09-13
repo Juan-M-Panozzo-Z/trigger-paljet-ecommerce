@@ -44,8 +44,9 @@ export class FirebirdService implements OnModuleInit {
         this.retryConnection();
         return;
       }
+      console.log('Connected to Firebird database.');
 
-      const query = 'SELECT * FROM DB_NOTIF WHERE TABLA_ID IN (1, 214, 88)';
+      const query = 'SELECT * FROM DB_NOTIF WHERE TABLA_ID IN (1, 88, 214)';
       setInterval(() => {
         try {
           db.query(query, [], (err, events) => {
@@ -63,7 +64,7 @@ export class FirebirdService implements OnModuleInit {
         } catch (error) {
           console.error('Error querying Firebird database:', error);
         }
-      }, 1000);
+      }, 500);
     });
   }
 
@@ -71,8 +72,8 @@ export class FirebirdService implements OnModuleInit {
     console.log('Connection to Firebird lost. Retrying...');
     of(null)
       .pipe(
-        delay(200),
-        take(100),
+        delay(50),
+        take(1000),
         retryWhen((errors) => errors),
       )
       .subscribe(() => {
