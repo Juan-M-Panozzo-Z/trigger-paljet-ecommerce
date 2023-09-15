@@ -19,7 +19,7 @@ export class PaljetSyncService {
 
   options: firebird.Options = {
     // host: 'rigelec.com.ar',
-    host: '192.168.0.24',
+    host: 'localhost',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
