@@ -19,7 +19,7 @@ export class PaljetSyncService {
 
   options: firebird.Options = {
     // host: 'rigelec.com.ar',
-    host: '10.16.10.16',
+    host: '192.168.0.24',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -73,6 +73,7 @@ export class PaljetSyncService {
             `Sincronización funcionando correctamente. Se agregaron ${newArticleCount} nuevos artículos.`,
           );
         });
+        db.detach();
       });
     });
   }
@@ -91,7 +92,6 @@ export class PaljetSyncService {
             reject(err);
             return;
           }
-
           let newArtlprCount = 0;
 
           for (const item of result) {
@@ -101,8 +101,10 @@ export class PaljetSyncService {
             const existingArtlpr = await this.listPriceModel.findOne({
               _id: item.ARTLPR_ID,
             });
+            console.log(existingArtlpr);
 
             if (!existingArtlpr) {
+              console.log('no existe');
               const newArtlpr = new this.listPriceModel({
                 _id: item.ARTLPR_ID,
                 ART_ID: item.ART_ID,
@@ -110,6 +112,7 @@ export class PaljetSyncService {
                 PR_VTA: item.PR_VTA,
                 PR_FINAL: item.PR_FINAL,
               });
+              console.log(newArtlpr);
 
               await newArtlpr.save();
               newArtlprCount++;
@@ -120,6 +123,7 @@ export class PaljetSyncService {
             `Sincronización funcionando correctamente. Se agregaron ${newArtlprCount} nuevos precios.`,
           );
         });
+        db.detach();
       });
     });
   }
@@ -160,11 +164,11 @@ export class PaljetSyncService {
               newStockCount++;
             }
           }
-
           resolve(
             `Sincronización funcionando correctamente. Se agregaron ${newStockCount} nuevos stock.`,
           );
         });
+        db.detach();
       });
     });
   }
@@ -209,6 +213,7 @@ export class PaljetSyncService {
             resolve(`Sincronización funcionando correctamente.`);
           },
         );
+        db.detach();
       });
     });
   }
@@ -233,6 +238,7 @@ export class PaljetSyncService {
             resolve('Listado en consola');
           },
         );
+        db.detach();
       });
     });
   }

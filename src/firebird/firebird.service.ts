@@ -21,7 +21,7 @@ export class FirebirdService implements OnModuleInit {
 
   private options = {
     // host: 'rigelec.com.ar',
-    host: '10.16.10.16',
+    host: '192.168.0.24',
     port: 3050,
     database: 'D:\\ETSOL\\PaljetERP\\database\\DBSIF.FDB',
     user: 'SYSDBA',
@@ -29,12 +29,10 @@ export class FirebirdService implements OnModuleInit {
   };
 
   onModuleInit() {
-    this.listenToChanges();
+    setInterval(() => {
+      this.connectToFirebird();
+    }, 1000);
     this.watchEvents();
-  }
-
-  listenToChanges() {
-    this.connectToFirebird();
   }
 
   connectToFirebird() {
@@ -44,27 +42,26 @@ export class FirebirdService implements OnModuleInit {
         this.retryConnection();
         return;
       }
-      console.log('Connected to Firebird database.');
+      console.log('Scanning Firebird database...');
 
       const query = 'SELECT * FROM DB_NOTIF WHERE TABLA_ID IN (1, 88, 214)';
-      setInterval(() => {
-        try {
-          db.query(query, [], (err, events) => {
-            if (err) throw err;
-            events.forEach(async (event) => {
-              const existingEvent = await this.eventModel.findOne({
-                TRANSACTION_ID: event.TRANSACTION_ID,
-              });
-              if (!existingEvent) {
-                const newEvent = new this.eventModel(event);
-                newEvent.save();
-              }
+      try {
+        db.query(query, [], (err, events) => {
+          if (err) throw err;
+          events.forEach(async (event) => {
+            const existingEvent = await this.eventModel.findOne({
+              TRANSACTION_ID: event.TRANSACTION_ID,
             });
+            if (!existingEvent) {
+              const newEvent = new this.eventModel(event);
+              newEvent.save();
+            }
           });
-        } catch (error) {
-          console.error('Error querying Firebird database:', error);
-        }
-      }, 500);
+        });
+        db.detach();
+      } catch (error) {
+        console.error('Error querying Firebird database:', error);
+      }
     });
   }
 
@@ -72,7 +69,7 @@ export class FirebirdService implements OnModuleInit {
     console.log('Connection to Firebird lost. Retrying...');
     of(null)
       .pipe(
-        delay(50),
+        delay(5000),
         take(1000),
         retryWhen((errors) => errors),
       )
